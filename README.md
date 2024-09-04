@@ -1,4 +1,4 @@
-### Hey there! 👋
+# Hey there! 👋
 
 🛠️ As a DevOps engineer, I'm constantly tinkering with tools and technologies to streamline development pipelines and enhance system reliability.
 
@@ -10,6 +10,6 @@
 
 ☕ If you appreciate what I do and want to support my caffeinated coding sessions, consider buying me a virtual coffee! Your generosity keeps the code flowing! 👉👈
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-red.png)](https://www.buymeacoffee.com/nihaldivyam)
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="200"/>
 
 Let's code, collaborate, and conquer the digital frontier together! 🚀
