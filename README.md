@@ -9,6 +9,6 @@ Core Focus:
 
 🌐 Open Source: Active contributor to the community, focusing on security tools and infrastructure reliability.
 
-I advocate for shifting security left. Let's connect on LinkedIn to discuss secure architecture and reliability engineering.
+I advocate for shifting security left. Let's connect on [LinkedIn](https://www.linkedin.com/in/divyamazad/) to discuss secure architecture and reliability engineering.
 
 <a href="https://www.buymeacoffee.com/nihaldivyam"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Support My Open Source Work" width="180"/></a>
