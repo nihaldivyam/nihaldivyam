@@ -1,6 +1,6 @@
 # Hey there! I'm Divyam 👋
 
-I build systems that are meant to be broken—and then I make sure they can't be. 
+I build systems that are meant to be broken and then I make sure they can't be. 
 
 By day, I am a **DevOps Engineer**; by nature, I am a **Penetration Tester**. My journey began in **Ethical Hacking**, which fundamentally changed how I view infrastructure. I don't just architect for scalability; I architect to survive an adversary. 
 
